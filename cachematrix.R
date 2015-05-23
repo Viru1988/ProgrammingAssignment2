@@ -1,5 +1,5 @@
 ## This is a set of functions that will cache the inverse of matrix and use it from cache
-## next when it is needed. 
+##  for the next time when it is needed. 
 
 ## This function will cache the inverse of special matrix
 
